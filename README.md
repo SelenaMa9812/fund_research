@@ -9,7 +9,8 @@
 ### 风险控制
 1. 最大回撤
 2. 波动率
-### 基金经理研究
+### 基金经理模式
+### 上面每一项都要研究资金流入占总资产比重
 
 ## 基金公司
 [富达](https://github.com/SelenaMa9812/fund_research/blob/main/%E5%AF%8C%E8%BE%BE%E5%9F%BA%E9%87%91.pdf)
