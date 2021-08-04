@@ -12,7 +12,7 @@
 ### 基金经理研究
 
 ## 基金公司
-[富达](https://github.com/SelenaMa9812/fund_research/blob/main/%E5%AF%8C%E8%BE%BE%E5%9F%BA%E9%87%91.md)
+[富达](https://github.com/SelenaMa9812/fund_research/blob/main/%E5%AF%8C%E8%BE%BE%E5%9F%BA%E9%87%91.pdf)
 
 贝莱德
 
